@@ -4,7 +4,7 @@ This project is a Streamlit web application that allows users to interactively v
 
 ## Demo Site
 
-The application is deployed on Streamlit Cloud and can be accessed here: [https://aiotda.streamlit.app/](https://aiotda.streamlit.app/)
+The application is deployed on Streamlit Cloud and can be accessed here: [https://7tccjj.streamlit.app](https://7tccjj.streamlit.app)
 
 ## Project Summary
 
